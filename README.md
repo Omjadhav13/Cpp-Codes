@@ -1,11 +1,21 @@
-# Even Digit Numbers
+# Cpp‑Codes
 
-This C++ program finds and prints all numbers between **100 and 400 (inclusive)** where **every digit of the number is even** (i.e., digits can only be 0, 2, 4, 6, or 8).
+A collection of C++ programs demonstrating various algorithms and exercises.
 
-## 🚀 Description
+---
 
-The program iterates through all numbers from 100 to 400 and checks whether each digit of a number is even. If all digits are even, the number is printed as part of a comma-separated list.
+##  How This Repo Is Organized
 
-## Source Code
+- Each program resides in its own `.cpp` file
+- Sections below summarize each program—feel free to add more!
 
-[View digit_even.cpp](digit_even.cpp)
+---
+
+##  Programs Overview
+
+| Program Name               | Description                                                  | Link                      |
+|----------------------------|--------------------------------------------------------------|---------------------------|
+| Even Digit Numbers         | Prints all numbers between 100–400 composed entirely of even digits. | [View code](digit_even.cpp) |
+<!-- Add rows for each new program -->
+
+---
